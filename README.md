@@ -7,6 +7,8 @@ Introduction 介绍
 
 **AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
 
+**AdminLTE** -- 是一个完全响应式的后台管理模板。基于Bootstrap3框架。高度可定制的，易于使用。适合很多屏幕解决方案，包括从小型移动设备到大型台式机。
+
 **Download & Preview on [Almsaeed Studio](https://almsaeedstudio.com)**
 
 Looking for Premium Templates?
